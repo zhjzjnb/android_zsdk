@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="account_tip">账号:</string>
+    <string name="password_tip">密码:</string>
+    <string name="password_confirm_tip">确认:</string>
+    
+    <string name="password">密码</string>
+    <string name="password_confirm">确认密码</string>
+    <string name="account">账号</string>
+    <string name="register">注册</string>
+    <string name="login">登录</string>
+
+</resources>

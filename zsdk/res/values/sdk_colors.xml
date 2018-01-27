@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="blue_pressed">#2f72a7</color>
+    <color name="blue_not_pressed">#4f92c7</color>
+    <color name="orange_pressed">#de9301</color>
+    <color name="orange_not_pressed">#feb301</color>
+
+</resources>
